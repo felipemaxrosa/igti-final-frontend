@@ -98,6 +98,7 @@ export default function ModalEntry({ type, isOpen, onClose, onSubmit, entry }) {
           right: 0,
           bottom: 0,
           backgroundColor: "rgba(255, 255, 255, 0.75)",
+          zIndex: 1,
         },
         content: {
           width: "500px",
