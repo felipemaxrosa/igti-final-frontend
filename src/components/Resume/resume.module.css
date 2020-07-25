@@ -1,0 +1,23 @@
+.border {
+  box-shadow: black 2px 2px 5px;
+  border-radius: 5px;
+}
+.margin {
+  margin-top: 15px;
+  padding: 10px;
+}
+
+.flexR {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  font-size: 1.2rem;
+}
+
+.textRed {
+  color: red;
+}
+
+.textGreen {
+  color: green;
+}

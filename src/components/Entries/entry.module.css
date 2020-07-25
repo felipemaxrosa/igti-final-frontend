@@ -1,0 +1,40 @@
+.border {
+  border: 1px solid lightgray;
+  border-radius: 5px;
+}
+
+.padding {
+  padding: 10px;
+}
+.flexRow {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.left {
+  justify-items: left;
+  align-items: center;
+}
+
+.right {
+  flex-direction: row-reverse;
+  align-items: center;
+}
+
+.flexColumn {
+  display: flex;
+  flex-direction: column;
+}
+
+.marginL {
+  margin-left: 20px;
+}
+
+.marginR {
+  margin-right: 20px;
+}
+
+.margin {
+  margin: 7px 0;
+}

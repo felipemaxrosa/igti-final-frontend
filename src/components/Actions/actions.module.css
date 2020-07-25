@@ -1,0 +1,14 @@
+.flexRow {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: baseline;
+}
+
+.margin {
+  margin-top: 30px;
+}
+
+.marginLeft {
+  margin-left: 30px;
+}
